@@ -58,7 +58,7 @@ run_docker_containers() {
       --link ollama \
       -e VANA_PRIVATE_KEY="$VANA_PRIVATE_KEY" \
       -e VANA_NETWORK="$VANA_NETWORK" \
-      --restart no \
+      --restart always \
       sixgpt/miner:latest
 }
 
