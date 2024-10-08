@@ -14,6 +14,7 @@
 
 ---
 - **To run this miner, you must need to have 6 GB RAM on your VPS or system (Recommended)**
+- If you want to buy any VPS, you can buy from [PQ Hosting](https://pq.hosting/?from=622403&lang=en) using crypto currency
 
 ## Installation
 - You can use either this command
