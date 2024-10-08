@@ -30,3 +30,12 @@ During the execution of the script, you will be prompted to enter the network na
 
 - If you requested the faucet for the Moksha network, type `moksha`
 - If you requested the faucet for the Satori network, type `satori`
+
+## Miner Status
+- Use this command
+```bash
+sudo docker logs ollama -f -n 50
+```
+- If you get output like this, it is working fine
+
+![image](https://github.com/user-attachments/assets/c380d037-4750-452c-a882-86a23dd32cc6)
