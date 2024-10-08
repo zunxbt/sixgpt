@@ -1,7 +1,7 @@
 <h2 align=center>Run SixGPT Miner on VPS</h2>
 
 ## Info
-- You need to connect your wallet first in [SixGPT](https://sixgpt.xyz/miner) website
+- You need to connect your wallet first in [SixGPT](https://sixgpt.xyz) website
 - Click on Log In or Sign Up button 
 - Connect your burner wallet
 - Connect your google drive
